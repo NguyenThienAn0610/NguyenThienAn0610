@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my studies in the Computer Engineering major.
 - 🌱 I’m currently learning Python, Embedded C/C++, Java, and a little bit of AI.
-- 📫 How to reach me: www.linkedin.com/in/thien-an-nguyen-ce and https://www.facebook.com/thienan.nguyen.0610/
+- 📫 How to reach me: linkedin.com/in/thien-an-nguyen-ce and facebook.com/thienan.nguyen.0610/
 - ⚡ Fun fact: I love cats and dogs.
 
 <!--
